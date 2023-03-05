@@ -2066,7 +2066,7 @@ pre code {
 .col-xs-9 {
     position: relative;
     min-height: 1px;
-    padding-right: 15px;
+    padding-right: 29px;
     padding-left: 15px
 }
 
@@ -2499,7 +2499,7 @@ pre code {
         width: 41.66666667%
     }
     .col-md-4 {
-        width: 33.33333333%
+        width: 49.33333333%
     }
     .col-md-3 {
         width: 25%
